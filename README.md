@@ -1,6 +1,6 @@
 # alphapet-docs
 
-> [!IMPORTANT]
+> [!ALERT]
 > **Wiki: https://github.com/project-alphapet/alphapet-docs/wiki**
 
 ## Stack/Tecnologias
