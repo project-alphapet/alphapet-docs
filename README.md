@@ -1,4 +1,11 @@
-## Backe-end 
+# alphapet-docs
+
+> [!IMPORTANT]
+> **Wiki: https://github.com/project-alphapet/alphapet-docs/wiki**
+
+## Stack/Tecnologias
+
+### Backe-end 
 
 - [ ] Nodejs
 - [ ] TypeScript 
@@ -8,13 +15,13 @@
 - [ ] EDA 
 - [ ] DDD  
 
-## Front-end 
-## Database 
-## Queue
-## Cache 
-## Infra 
+### Front-end 
+### Database 
+### Queue
+### Cache 
+### Infra 
 
-## CI/CD 
+### CI/CD 
 - [ ] Github Actions 
 - [ ] Template
 - [ ] Scripts auxiliares 
@@ -26,5 +33,9 @@
 - [ ] Build único 
 - [ ] Test Covarage
 
-### CD 
+#### CD 
 - [ ] Helm 
+
+
+
+
