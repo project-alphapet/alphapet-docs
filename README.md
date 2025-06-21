@@ -5,7 +5,7 @@
 
 ## Stack/Tecnologias
 
-### Backe-end 
+### Back-end 
 
 - [ ] Nodejs
 - [ ] TypeScript 
